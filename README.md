@@ -79,8 +79,6 @@
 
 ## 4. 검증 결과 정리
 
-![검증 결과 비교](assets/validation_results.png)
-
 ### 단계별 검증 점수 변화 (검증 이미지 20장 기준)
 
 | 실험 단계 | mIoU (ignore) | mIoU (zero) | 설명 |
